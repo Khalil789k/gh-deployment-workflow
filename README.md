@@ -8,4 +8,4 @@ using GitHub Actions.
 - Automatically deploys the site to GitHub Pages
 
 Live URL:
-https://Khalil78k.github.io/gh-deployment-workflow/
+https://khalil789k.github.io/gh-deployment-workflow/
